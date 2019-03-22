@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1553258406 source:e:\aboali\adts\main.c
+	"Config.h"
+
+1553247570 e:\aboali\adts\config.h
+	<stdio.h>
+	<stdlib.h>
+	"stack_array.h"
+	"stack_array.c"
+	"stack_linked.h"
+	"stack_linked.c"
+
+1553247336 e:\aboali\adts\stack_array.h
+
+1553247429 source:e:\aboali\adts\stack_array.c
+	"stack_array.h"
+
+1553247317 e:\aboali\adts\stack_linked.h
+
+1553257862 source:e:\aboali\adts\stack_linked.c
+	"stack_linked.h"
+	<stddef.h>
+
+1553247429 e:\aboali\adts\stack_array.c
+	"stack_array.h"
+
+1553259080 e:\aboali\adts\stack_linked.c
+	"stack_linked.h"
+	<stddef.h>
+
