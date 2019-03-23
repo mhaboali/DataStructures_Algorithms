@@ -28,3 +28,54 @@
 	"stack_linked.h"
 	<stddef.h>
 
+1553296992 source:e:\aboali\adts\datastructures_algorithms\main.c
+	"Config.h"
+
+1553301886 e:\aboali\adts\datastructures_algorithms\config.h
+	<stdio.h>
+	<stdlib.h>
+	"stack_array.h"
+	"stack_array.c"
+	"queue_array.h"
+	"queue_array.c"
+	"stack_linked.h"
+	"stack_linked.c"
+	"queue_linked.h"
+	"queue_linked.c"
+
+1553247336 e:\aboali\adts\datastructures_algorithms\stack_array.h
+
+1553247429 e:\aboali\adts\datastructures_algorithms\stack_array.c
+	"stack_array.h"
+
+1553247317 e:\aboali\adts\datastructures_algorithms\stack_linked.h
+
+1553259080 e:\aboali\adts\datastructures_algorithms\stack_linked.c
+	"stack_linked.h"
+	<stddef.h>
+
+1553247429 source:e:\aboali\adts\datastructures_algorithms\stack_array.c
+	"stack_array.h"
+
+1553259080 source:e:\aboali\adts\datastructures_algorithms\stack_linked.c
+	"stack_linked.h"
+	<stddef.h>
+
+1553283320 e:\aboali\adts\datastructures_algorithms\queue_array.h
+
+1553297662 e:\aboali\adts\datastructures_algorithms\queue_array.c
+	"queue_array.h"
+
+1553297662 source:e:\aboali\adts\datastructures_algorithms\queue_array.c
+	"queue_array.h"
+
+1553301970 source:e:\aboali\adts\datastructures_algorithms\queue_linked.c
+	"queue_linked.h"
+	<stddef.h>
+
+1553298655 e:\aboali\adts\datastructures_algorithms\queue_linked.h
+
+1553302226 e:\aboali\adts\datastructures_algorithms\queue_linked.c
+	"queue_linked.h"
+	<stddef.h>
+
