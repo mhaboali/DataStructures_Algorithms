@@ -3,8 +3,8 @@
 #include <stdlib.h>
 
 //#define STACK
-#define QUEUE
-
+//#define QUEUE
+#define LIST
 
 #define LINKED
 //#define ARRAY
@@ -18,6 +18,10 @@
         #include"queue_array.h"
         #include"queue_array.c"
     #endif // QUEUE
+    #ifdef LIST
+        #include"list_array.h"
+        #include"list_array.c"
+    #endif // LIST
 #endif // ARRAY
 
 #ifdef LINKED
@@ -29,5 +33,9 @@
         #include"queue_linked.h"
         #include"queue_linked.c"
     #endif // QUEUE
+    #ifdef LIST
+        #include"list_linked.h"
+        #include"list_linked.c"
+    #endif // LIST
 
 #endif

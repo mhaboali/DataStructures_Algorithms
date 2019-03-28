@@ -28,20 +28,24 @@
 	"stack_linked.h"
 	<stddef.h>
 
-1553296992 source:e:\aboali\adts\datastructures_algorithms\main.c
+1553777502 source:e:\aboali\adts\datastructures_algorithms\main.c
 	"Config.h"
 
-1553301886 e:\aboali\adts\datastructures_algorithms\config.h
+1553776540 e:\aboali\adts\datastructures_algorithms\config.h
 	<stdio.h>
 	<stdlib.h>
 	"stack_array.h"
 	"stack_array.c"
 	"queue_array.h"
 	"queue_array.c"
+	"list_array.h"
+	"list_array.c"
 	"stack_linked.h"
 	"stack_linked.c"
 	"queue_linked.h"
 	"queue_linked.c"
+	"list_linked.h"
+	"list_linked.c"
 
 1553247336 e:\aboali\adts\datastructures_algorithms\stack_array.h
 
@@ -69,7 +73,7 @@
 1553297662 source:e:\aboali\adts\datastructures_algorithms\queue_array.c
 	"queue_array.h"
 
-1553301970 source:e:\aboali\adts\datastructures_algorithms\queue_linked.c
+1553302226 source:e:\aboali\adts\datastructures_algorithms\queue_linked.c
 	"queue_linked.h"
 	<stddef.h>
 
@@ -77,5 +81,24 @@
 
 1553302226 e:\aboali\adts\datastructures_algorithms\queue_linked.c
 	"queue_linked.h"
+	<stddef.h>
+
+1553745734 source:e:\aboali\adts\datastructures_algorithms\list_array.c
+	"list_array.h"
+
+1553745138 e:\aboali\adts\datastructures_algorithms\list_array.h
+
+1553745734 e:\aboali\adts\datastructures_algorithms\list_array.c
+	"list_array.h"
+
+1553776733 e:\aboali\adts\datastructures_algorithms\list_linked.h
+	<stddef.h>
+
+1553778442 e:\aboali\adts\datastructures_algorithms\list_linked.c
+	"list_linked.h"
+	<stddef.h>
+
+1553778370 source:e:\aboali\adts\datastructures_algorithms\list_linked.c
+	"list_linked.h"
 	<stddef.h>
 

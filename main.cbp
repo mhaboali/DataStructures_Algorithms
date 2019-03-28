@@ -20,9 +20,25 @@
 			<Add option="-Wall" />
 		</Compiler>
 		<Unit filename="Config.h" />
+		<Unit filename="list_array.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="list_array.h" />
+		<Unit filename="list_linked.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="list_linked.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="queue_array.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="queue_array.h" />
+		<Unit filename="queue_linked.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="queue_linked.h" />
 		<Unit filename="stack_array.c">
 			<Option compilerVar="CC" />
 		</Unit>
