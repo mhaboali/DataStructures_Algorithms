@@ -27,7 +27,9 @@ int main()
  *     printf("The values are\n%d\n%d\n%d\n",e1,e2,e3);
  */
 
-    List l;
+
+    /**
+     *List l;
     InitList(&l);
     InsertList(0,10,&l);
     InsertList(1,20,&l);
@@ -36,5 +38,6 @@ int main()
     retrieve(1,&e2,&l);
     clearList(&l);
     printf("The values are\n%d\n%d\n",e1,e2);
+     */
     return 0;
 }

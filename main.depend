@@ -28,10 +28,10 @@
 	"stack_linked.h"
 	<stddef.h>
 
-1553777502 source:e:\aboali\adts\datastructures_algorithms\main.c
+1555686478 source:e:\aboali\adts\datastructures_algorithms\main.c
 	"Config.h"
 
-1553776540 e:\aboali\adts\datastructures_algorithms\config.h
+1555686580 e:\aboali\adts\datastructures_algorithms\config.h
 	<stdio.h>
 	<stdlib.h>
 	"stack_array.h"
@@ -46,6 +46,7 @@
 	"queue_linked.c"
 	"list_linked.h"
 	"list_linked.c"
+	"Binary_Tree.h"
 
 1553247336 e:\aboali\adts\datastructures_algorithms\stack_array.h
 
@@ -98,7 +99,17 @@
 	"list_linked.h"
 	<stddef.h>
 
-1553778370 source:e:\aboali\adts\datastructures_algorithms\list_linked.c
+1553778442 source:e:\aboali\adts\datastructures_algorithms\list_linked.c
 	"list_linked.h"
+	<stddef.h>
+
+1555696925 e:\aboali\adts\datastructures_algorithms\binary_tree.h
+
+1555686555 e:\aboali\adts\datastructures_algorithms\binary_tree.c
+	"Binary_Tree.h"
+	<stddef.h>
+
+1555706640 source:e:\aboali\adts\datastructures_algorithms\binary_tree.c
+	"Binary_Tree.h"
 	<stddef.h>
 

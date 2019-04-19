@@ -4,7 +4,8 @@
 
 //#define STACK
 //#define QUEUE
-#define LIST
+//#define LIST
+#define BST
 
 #define LINKED
 //#define ARRAY
@@ -22,6 +23,7 @@
         #include"list_array.h"
         #include"list_array.c"
     #endif // LIST
+
 #endif // ARRAY
 
 #ifdef LINKED
@@ -37,5 +39,9 @@
         #include"list_linked.h"
         #include"list_linked.c"
     #endif // LIST
+    #ifdef BST
+        #include "Binary_Tree.h"
+        //#include "Binary_Tree.c"
+    #endif // BST
 
 #endif
